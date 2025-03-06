@@ -1,3 +1,3 @@
-144.91.69.238 {
-	reverse_proxy 144.91.69.238:4300
+apilumera.shop {
+	reverse_proxy 127.0.0.1:4300
 }
